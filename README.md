@@ -20,4 +20,4 @@ drive.mount('/content/gdrive')
 df = pd.read_csv('gdrive/My Drive/edit_distance/greedy.csv')
 ```
 
-Подробнее читайте в статье @borovikova Как находить похожие слова с помощью расстояния Левенштейна? 
+Подробнее читайте в статье [@borovikova](https://github.com/borovikova) Как находить похожие слова с помощью расстояния Левенштейна? 
